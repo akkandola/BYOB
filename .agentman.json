@@ -1,0 +1,63 @@
+{
+  "installations": {
+    "claude-code": {
+      "bootstrap/requirements-elicitation": {
+        "installedAt": "2026-11-17T11:52:35.127Z",
+        "method": "symlink",
+        "sourcePin": {
+          "sourceType": "bundle",
+          "installLayout": "namespaced",
+          "bundleVersion": "1.14.0",
+          "bundleBaseUrl": "https://content.bootstrap.deloittecloud.co.uk/agents",
+          "bundleAddressing": "content-root",
+          "bundleSourceName": "bootstrap"
+        },
+        "linkName": "bootstrap~requirements-elicitation",
+        "bundleVersion": "1.14.0"
+      },
+      "bootstrap/js-frontend-engineering": {
+        "installedAt": "2026-11-17T11:52:46.436Z",
+        "method": "symlink",
+        "sourcePin": {
+          "sourceType": "bundle",
+          "installLayout": "namespaced",
+          "bundleVersion": "1.14.0",
+          "bundleBaseUrl": "https://content.bootstrap.deloittecloud.co.uk/agents",
+          "bundleAddressing": "content-root",
+          "bundleSourceName": "bootstrap"
+        },
+        "linkName": "bootstrap~js-frontend-engineering",
+        "bundleVersion": "1.14.0"
+      },
+      "bootstrap/quality-assurance": {
+        "installedAt": "2026-11-17T11:52:54.917Z",
+        "method": "symlink",
+        "sourcePin": {
+          "sourceType": "bundle",
+          "installLayout": "namespaced",
+          "bundleVersion": "1.14.0",
+          "bundleBaseUrl": "https://content.bootstrap.deloittecloud.co.uk/agents",
+          "bundleAddressing": "content-root",
+          "bundleSourceName": "bootstrap"
+        },
+        "linkName": "bootstrap~quality-assurance",
+        "bundleVersion": "1.14.0"
+      },
+      "bootstrap/code-review-frontend": {
+        "installedAt": "2026-11-17T11:53:04.516Z",
+        "method": "symlink",
+        "sourcePin": {
+          "sourceType": "bundle",
+          "installLayout": "namespaced",
+          "bundleVersion": "1.14.0",
+          "bundleBaseUrl": "https://content.bootstrap.deloittecloud.co.uk/agents",
+          "bundleAddressing": "content-root",
+          "bundleSourceName": "bootstrap"
+        },
+        "linkName": "bootstrap~code-review-frontend",
+        "bundleVersion": "1.14.0"
+      }
+    }
+  },
+  "bundleVersion": "1.14.0"
+}
